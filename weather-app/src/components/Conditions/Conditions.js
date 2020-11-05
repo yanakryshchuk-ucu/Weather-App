@@ -4,7 +4,8 @@ const conditions = (props) => {
    return (
        <div className={classes.Wrapper}>
            {props.error && <small className={classes.Small}>Please enter a valid city.</small>}
-           {props.loading && <div className={classes.Loader} />}
+
+           {props.loading && <div className={classes.Loader} ></div>}
            {props.responseObj.cod === 200 ?
                <div>
                    <p>City: <strong>{props.responseObj.name}</strong></p>

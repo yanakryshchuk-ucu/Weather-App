@@ -102,7 +102,10 @@ function getForecast(e) {
                         type="button">Reset</button>
             </form>
            <Conditions
-               responseObj={responseObj}
+           
+                responseObj={responseObj}
+                error={error} //new
+                loading={loading} 
                />
        </div>
    )
