@@ -1,4 +1,8 @@
 # Weather-App
+### The application is published at:
+> https://yanakryshchuk-ucu.github.io/Weather-App/
+
+
 This application allows you to get weather in specified city.\
 There are the following details available:
 - City
@@ -13,8 +17,5 @@ You can easily resen your setting by pressing `Reset` button, which appears as s
 <br>
 Also, it is possible to enter the city name with Cyrillic (i.e 'Львів') and the application will still work.\
 <br>
-## The application is published at:
-> https://yanakryshchuk-ucu.github.io/Weather-App/
-
 
  
