@@ -6,7 +6,15 @@
 This React application allows you to get weather in specified city.\
 There are the following details available:
 
-## Usage
+## Table of Contents
+1. [Usage](https://github.com/yanakryshchuk-ucu/Weather-App/blob/main/README.md#usage)
+2. [Features](https://github.com/yanakryshchuk-ucu/Weather-App/blob/main/README.md#features)
+3. [Webapplication Usage](https://github.com/yanakryshchuk-ucu/Weather-App/blob/main/README.md#webapplication-usage)
+4. [Author](https://github.com/yanakryshchuk-ucu/Weather-App/blob/main/README.md#author)
+
+
+
+### Usage
 
 Execute this commands to start the **React Application**
 ```{shell script}
@@ -15,7 +23,7 @@ Execute this commands to start the **React Application**
     npm start
 ```
     
-## Features
+### Features
 
 - City
 - Temperature
@@ -24,7 +32,7 @@ Execute this commands to start the **React Application**
 - Pressure
 - Wind speed 
 
-## Webapplication Usage
+### Webapplication Usage
 
 1. Specify units of measurements
      - Degrees in Fahrenheit or Celsius
@@ -34,5 +42,5 @@ Execute this commands to start the **React Application**
 4. Reset settings by pressing the `Reset` button 
 (appears as soon as you get the weather details of a chosen city)
  
-## Author
+### Author
 - [Yana Kryshchuk](https://github.com/yanakryshchuk-ucu)
